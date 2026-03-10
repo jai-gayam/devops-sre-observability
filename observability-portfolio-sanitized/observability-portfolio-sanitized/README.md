@@ -1,6 +1,6 @@
-# DevOps SRE Observability Portfolio (Sanitized)
+# DevOps SRE Observability Portfolio 
 
-This repo is a **sanitized, shareable** portfolio demonstrating end-to-end observability patterns across:
+This repo is a **shareable** portfolio demonstrating end-to-end observability patterns across:
 - **Splunk** (dashboards + search patterns)
 - **Cribl Stream** (routes + pipelines)
 - **AWS** diagrams (Mermaid)
