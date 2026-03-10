@@ -3,6 +3,7 @@
 This repo is a **shareable** portfolio demonstrating end-to-end observability patterns across:
 - **AWS** diagrams (Mermaid)
 - **Terraform** (modules + examples)
+- **GITOps**
 - **Splunk** (dashboards + search patterns)
 - **DataDog** (Monitors)
 - **CI/CD**
