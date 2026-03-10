@@ -1,10 +1,13 @@
 # DevOps SRE Observability Portfolio 
 
 This repo is a **shareable** portfolio demonstrating end-to-end observability patterns across:
-- **Splunk** (dashboards + search patterns)
-- **Cribl Stream** (routes + pipelines)
 - **AWS** diagrams (Mermaid)
 - **Terraform** (modules + examples)
+- **Splunk** (dashboards + search patterns)
+- **DataDog** (Monitors)
+- **CI/CD**
+- **Ansible**
+- **Cribl Stream** (routes + pipelines)
 - **Case studies** (2 end-to-end writeups)
 
 > **Sanitization note:** All names, hostnames, account IDs, indices, and data patterns are fictional or generalized.  
