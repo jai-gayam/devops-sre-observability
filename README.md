@@ -1,5 +1,5 @@
 # observability-portfolio
-This is the repo for SRE and End-to-end Observability implementation (Data + Infrastructure + Cloud)
+This is the repo for DevOps/SRE and End-to-end Observability implementation (Data + Infrastructure + Cloud)
 
 # Observability Portfolio (Sanitized)
 
