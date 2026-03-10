@@ -1,7 +1,5 @@
-# observability-portfolio
+# DevOps-SRE-Observability-portfolio
 This is the repo for DevOps/SRE and End-to-end Observability implementation (Data + Infrastructure + Cloud)
-
-# Observability Portfolio (Sanitized)
 
 This repo is a **sanitized, shareable** portfolio demonstrating end-to-end observability patterns across:
 - **Splunk** (dashboards + search patterns)
