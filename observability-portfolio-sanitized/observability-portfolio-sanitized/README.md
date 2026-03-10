@@ -1,4 +1,4 @@
-# Observability Portfolio (Sanitized)
+# DevOps SRE Observability Portfolio (Sanitized)
 
 This repo is a **sanitized, shareable** portfolio demonstrating end-to-end observability patterns across:
 - **Splunk** (dashboards + search patterns)
